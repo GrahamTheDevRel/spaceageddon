@@ -33,6 +33,7 @@ We also need topic suggestions etc. But one thing at a time!
 - Arya [https://twitter.com/arya_akhare](https://twitter.com/arya_akhare) (status: yes)
 - Deni [https://twitter.com/DeniTechh](https://twitter.com/DeniTechh) (status: yes)
 - Muhammad Anas [https://twitter.com/MuhammadAnas707](https://twitter.com/MuhammadAnas707) (status: yes)
+- Adetoye [https://twitter.com/adetoye_dev](https://twitter.com/adetoye_dev) (status: yes)
 
 ## People to approach, speakers and hosts
 - Francesco
