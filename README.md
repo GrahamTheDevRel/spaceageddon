@@ -67,6 +67,8 @@ We also need topic suggestions etc. But one thing at a time!
 - Muhammad (MuhammadAnas707)
 - Vincent (Vincent_coder)
 - Jay (jaystwtt)
+- Jawad (@jawaddheini)
+
 ## Potential event name suggestions:
 - Tech Twitter Space Train - YK
 - Spaceagedon? Space off? Maraspacethon? Mega space? Jenn Junod
