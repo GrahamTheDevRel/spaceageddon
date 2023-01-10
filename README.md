@@ -73,12 +73,17 @@ We also need topic suggestions etc. But one thing at a time!
 
 ## People who want to help orhestrate / organise etc.
 - @ehteshaxm
+- @kellnerdenes
+- @dev__steve
+- @JosephC32066807
 
 ## Potential event name suggestions:
 - Tech Twitter Space Train - YK
 - Spaceagedon? Space off? Maraspacethon? Mega space? Jenn Junod
 - Spacinity - Space + infinity - Krupali
 - HyperSpace - Graham
+
+**update:** Spaceageddon won, thanks Jenn! 💪
 
 
 
