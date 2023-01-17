@@ -1,15 +1,9 @@
-# 168
+# Spaceageddon!
 A Massive Twitter event that runs for 7 consecutive days non-stop!
 
 Yes, you hear that right. 168 hours long Twitter space (hopefully continuous but because of bugs / potential power outage etc. there WILL be a backup plan!)
 
 The biggest tech Twitter event ever!
-
-We are looking for 21 speakers to commit to running a total of 8 hours worth of spaces (each) as a minimum over the course of the week, but yet again we ideally need more speakers in case of emergencies / no shows.
-
-This repo may become the base of operations, or it may get moved to Google sheets etc. For now I am just storing the info safely.
-
-We also need topic suggestions etc. But one thing at a time!
 
 ## People who have initially been asked
 - Graham [https://twitter.com/GrahamTheDev](https://twitter.com/GrahamTheDev) (status: yes)
